@@ -1,0 +1,45 @@
+.cta {
+    background-image: url("images/TE19.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.cta-right {
+    text-align: right;   
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+}
+.cta > h1 {
+    font-size: 5rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: rgb(14, 190, 190);
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    z-index: 10;
+}
+.cta-filter {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(220, 220, 220, 0.4);
+    z-index: 0;
+}
+.cta-right > p {
+    font-size: 2rem;
+    color: #dcdcdc;
+    z-index: 10;
+    color: rgb(14, 190, 190);
+}
+.cta-right > button {
+    padding: 1rem;
+    font-size: 2rem;    
+    margin-top: 2rem;
+    color: rgb(14, 190, 190);
+    z-index: 10;
+}
+.cta-right > button:hover {
+    background-color: purple;
+}
