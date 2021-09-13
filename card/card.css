@@ -21,6 +21,9 @@
     max-width: 12rem;
     width: 100%;
 }
+.card  img {
+    max-width: 12rem;
+}
 @media screen and (max-width: 20rem) {
     .card-group {
         flex-direction: column;

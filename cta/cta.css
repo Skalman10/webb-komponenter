@@ -20,6 +20,7 @@
     padding-left: 2rem;
     z-index: 10;
 }
+
 .cta-filter {
     position: absolute;
     width: 100%;
@@ -27,6 +28,7 @@
     background-color: rgba(220, 220, 220, 0.4);
     z-index: 0;
 }
+
 .cta-right > p {
     font-size: 2rem;
     color: #dcdcdc;
